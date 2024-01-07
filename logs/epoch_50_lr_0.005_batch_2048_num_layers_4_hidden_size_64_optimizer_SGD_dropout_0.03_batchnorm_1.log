@@ -1,0 +1,30 @@
+epoch 50
+lr 0.005
+batch 2048
+num_layers 4
+hidden_size 64
+optimizer SGD
+dropout 0.03
+batchnorm 1
+epoch1 : Train Loss: 60.8184  Valid Loss 0.4134
+epoch2 : Train Loss: 3.9544  Valid Loss 0.4017
+epoch3 : Train Loss: 3.9041  Valid Loss 0.4002
+epoch4 : Train Loss: 3.8718  Valid Loss 0.3901
+epoch5 : Train Loss: 3.8344  Valid Loss 0.3866
+epoch6 : Train Loss: 3.7254  Valid Loss 0.3727
+epoch7 : Train Loss: 3.5964  Valid Loss 0.3570
+epoch8 : Train Loss: 3.3708  Valid Loss 0.3276
+epoch9 : Train Loss: 3.1146  Valid Loss 0.3016
+epoch10 : Train Loss: 2.9398  Valid Loss 0.2892
+epoch11 : Train Loss: 2.8161  Valid Loss 0.2785
+epoch12 : Train Loss: 2.7351  Valid Loss 0.2753
+epoch13 : Train Loss: 2.6734  Valid Loss 0.2715
+epoch14 : Train Loss: 2.6429  Valid Loss 0.2787
+epoch15 : Train Loss: 2.6150  Valid Loss 0.2671
+epoch16 : Train Loss: 2.6142  Valid Loss 0.2621
+epoch17 : Train Loss: 2.6717  Valid Loss 0.2752
+epoch18 : Train Loss: 2.5752  Valid Loss 0.2555
+epoch19 : Train Loss: 2.5652  Valid Loss 0.2656
+epoch20 : Train Loss: 2.5960  Valid Loss 0.2611
+epoch21 : Train Loss: 2.5794  Valid Loss 0.2600
+test loss : 0.25555626685554916

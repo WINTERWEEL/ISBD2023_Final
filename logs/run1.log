@@ -1,0 +1,19 @@
+epoch1 : Train Loss: 6.3028  Valid Loss 0.3000
+epoch2 : Train Loss: 2.4699  Valid Loss 0.3003
+epoch3 : Train Loss: 2.4879  Valid Loss 0.2712
+epoch4 : Train Loss: 2.4795  Valid Loss 0.2831
+epoch5 : Train Loss: 2.4499  Valid Loss 0.2749
+epoch6 : Train Loss: 2.4884  Valid Loss 0.2840
+test loss : 0.26689443777815824epoch1 : Train Loss: 7.1321  Valid Loss 0.3937
+epoch2 : Train Loss: 3.3466  Valid Loss 0.3440
+epoch3 : Train Loss: 2.6868  Valid Loss 0.2821
+epoch4 : Train Loss: 2.5191  Valid Loss 0.2831
+epoch5 : Train Loss: 2.4708  Valid Loss 0.2885
+epoch6 : Train Loss: 2.5004  Valid Loss 0.3107
+test loss : 0.27840002996175467epoch1 : Train Loss: 6.3028  Valid Loss 0.3000
+epoch2 : Train Loss: 2.4699  Valid Loss 0.3003
+epoch3 : Train Loss: 2.4879  Valid Loss 0.2712
+epoch4 : Train Loss: 2.4795  Valid Loss 0.2831
+epoch5 : Train Loss: 2.4499  Valid Loss 0.2749
+epoch6 : Train Loss: 2.4884  Valid Loss 0.2840
+test loss : 0.26689443777815824

@@ -1,0 +1,31 @@
+epoch1 : Train Loss: nan  Valid Loss nan
+epoch2 : Train Loss: nan  Valid Loss nan
+epoch3 : Train Loss: nan  Valid Loss nan
+epoch4 : Train Loss: nan  Valid Loss nan
+epoch5 : Train Loss: nan  Valid Loss nan
+epoch6 : Train Loss: nan  Valid Loss nan
+epoch7 : Train Loss: nan  Valid Loss nan
+epoch8 : Train Loss: nan  Valid Loss nan
+epoch9 : Train Loss: nan  Valid Loss nan
+epoch10 : Train Loss: nan  Valid Loss nan
+epoch11 : Train Loss: nan  Valid Loss nan
+epoch12 : Train Loss: nan  Valid Loss nan
+epoch13 : Train Loss: nan  Valid Loss nan
+epoch14 : Train Loss: nan  Valid Loss nan
+epoch15 : Train Loss: nan  Valid Loss nan
+epoch16 : Train Loss: nan  Valid Loss nan
+epoch17 : Train Loss: nan  Valid Loss nan
+epoch18 : Train Loss: nan  Valid Loss nan
+epoch19 : Train Loss: nan  Valid Loss nan
+epoch20 : Train Loss: nan  Valid Loss nan
+test loss : nanepoch1 : Train Loss: 7.6551  Valid Loss 0.4192
+epoch2 : Train Loss: 3.7457  Valid Loss 0.4180
+epoch3 : Train Loss: 3.2191  Valid Loss 0.3093
+epoch4 : Train Loss: 4.7500  Valid Loss 0.3489
+epoch5 : Train Loss: 2.8154  Valid Loss 0.2985
+epoch6 : Train Loss: 2.6815  Valid Loss 0.3086
+epoch7 : Train Loss: 2.6405  Valid Loss 0.2850
+epoch8 : Train Loss: 2.6287  Valid Loss 0.3032
+epoch9 : Train Loss: 2.6757  Valid Loss 0.2868
+epoch10 : Train Loss: 2.6470  Valid Loss 0.3004
+test loss : 0.2892477682658604

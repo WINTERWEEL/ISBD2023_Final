@@ -1,0 +1,17 @@
+epoch 20
+lr 0.01
+batch 2048
+num_layers 4
+hidden_size 64
+optimizer Adam
+dropout 0.0
+batchnorm 1
+epoch1 : Train Loss: 77.2501  Valid Loss 0.5878
+epoch2 : Train Loss: 7.8814  Valid Loss 0.4079
+epoch3 : Train Loss: 3.6317  Valid Loss 0.3205
+epoch4 : Train Loss: 3.2003  Valid Loss 0.2856
+epoch5 : Train Loss: 3.4087  Valid Loss 0.2708
+epoch6 : Train Loss: 3.1093  Valid Loss 0.3000
+epoch7 : Train Loss: 3.7630  Valid Loss 0.3104
+epoch8 : Train Loss: 2.7789  Valid Loss 0.2756
+test loss : 0.2706010845061895
